@@ -1,3 +1,3 @@
 # myPortfolio
-Hello there,this my Portfolio.take a look....
+Hello there,this my Portfolio.
 ShaikAfzal-softwareDeveloper
